@@ -23,4 +23,4 @@ Work experience
   * National University of Singapore (NUS)
   * Research Assistant for Professor Davin Chor
 
-A complete version of my CV can be found [here](http://hanloong7.github.io/blob/master/files/CV.pdf)
+A complete version of my CV can be found [here](http://hanloong7.github.io/files/CV.pdf)
