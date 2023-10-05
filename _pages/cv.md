@@ -23,3 +23,4 @@ Work experience
   * National University of Singapore (NUS)
   * Research Assistant for Professor Davin Chor
 
+A complete version of my CV can be found 
