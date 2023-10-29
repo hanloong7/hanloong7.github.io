@@ -14,7 +14,7 @@ I am on the job market for the 2023–24 academic year. Check back soon for a dr
 
 My research: 
 ======
-[Association of transplant center market concentration and local organ availability with deceased donor kidney utilization](http://hanloong7.github.io/files/kidney_market.pdf), February 2022.
+1. [Association of transplant center market concentration and local organ availability with deceased donor kidney utilization](http://hanloong7.github.io/files/kidney_market.pdf), February 2022.
 
 with Syed A. Husain, Kristen L. King, David C. Cron, Nikole A. Neidlinger, Sumit Mohan, Joel T. Adler
 
