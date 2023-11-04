@@ -22,6 +22,7 @@ Does performance score affect a transplant center's strategic choices? To answer
 Publications: 
 ======
 [Association of transplant center market concentration and local organ availability with deceased donor kidney utilization](http://hanloong7.github.io/files/kidney_market.pdf). Am J Transplant. 2022;22(6):1603-1613.
+
 with Syed A. Husain, Kristen L. King, David C. Cron, Nikole A. Neidlinger, Sumit Mohan, Joel T. Adler
 
 
