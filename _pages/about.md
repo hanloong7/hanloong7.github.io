@@ -14,7 +14,7 @@ I am on the job market for the 2023–24 academic year. This is a draft of my [j
 
 Working Papers: 
 ======
-[Performance Scores and Strategic Choices of Kidney Transplant Centers](http://hanloong7.github.io/files/JMP.pdf), November 2023 (Job Market Paper).
+[Performance Scores and Strategic Choices of Kidney Transplant Centers](http://hanloong7.github.io/files/JMP.pdf), February 2024 (Job Market Paper).
 
 Medicare introduced the Conditions of Participation (CoP) in 2007. This policy examines a transplant center's performance every six months. If the observed-expected (OE) 1-year death ratio exceeds 1.5, Medicare flags the center for poor performance and threatens decertification. I analyze the effect of this policy using a difference-in-differences design. The key assumption is that centers with a low observed-expected (OE) 1-year death ratio are unaffected by CoP's introduction. I show that transplant centers monitor their OE ratio and respond to the threat of punishment by declining transplants even before they approach the CoP threshold, 1.5. This rejection pattern occurs more often for medium and high-risk transplants and low-volume transplant centers. Secondly, I found no evidence that CoP reduced the post-transplant death rate across low/medium/high-risk transplants. My results suggest that strategic behavior among transplant centers is more widespread than previously thought. 
  
