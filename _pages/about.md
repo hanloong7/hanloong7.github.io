@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. I am a PhD Economics student at [Pennsylvania State University](https://econ.la.psu.edu/). My research interest are in health economics and applied microecnomics. This is a version of my [CV](http://hanloong7.github.io/files/CV.pdf).
+Welcome to my homepage. I am a PhD Economics student at [Pennsylvania State University](https://econ.la.psu.edu/). My research interest are in health economics and applied microeconomics. This is a version of my [CV](http://hanloong7.github.io/files/CV.pdf).
 
 I am on the job market for the 2023–24 academic year. This is a draft of my [job market paper](http://hanloong7.github.io/files/JMP.pdf)!
 
