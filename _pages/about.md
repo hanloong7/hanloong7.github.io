@@ -14,7 +14,7 @@ My research interest are in health economics and applied microeconomics. This is
 
 Working Papers: 
 ======
-[Performance Scores and Strategic Choices of Kidney Transplant Centers](http://hanloong7.github.io/files/JMP.pdf), March 2024 (Job Market Paper).
+[Performance Scores and Strategic Choices of Kidney Transplant Centers](http://hanloong7.github.io/files/JMP.pdf), April 2024 (Job Market Paper).
 
 Does the threat of punishment make hospitals reduce treatments and increase patient mortality? To answer this question, I analyze the decisions of U.S. kidney transplant centers, where a 2007 reform threatened to decertify a center if the observed-expected (OE) death ratio of transplanted patients exceeds a given threshold. Using variation in distance to the OE threshold, I show that the reform reduced the probability of transplanting a patient-kidney pair. The reduction is more significant for riskier operations and low-volume centers. I find little change in aggregate patient mortality. My results suggest centers avoid transplants for performance gains, and the reform's effect is mainly redistributive. 
  
