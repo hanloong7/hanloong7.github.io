@@ -20,7 +20,7 @@ Does the threat of punishment make hospitals reduce treatments and increase pati
  
  
 
-[Do transplant centers change strategies after poor performance?](http://hanloong7.github.io/files/3rdyearpaper.pdf), March 2024 (Neil Wallace award for Best 3rd year paper).
+[Do transplant centers change strategies after poor performance?](http://hanloong7.github.io/files/3rdyearpaper.pdf), April 2024 (Neil Wallace award for Best 3rd year paper).
 
 Medicare's conditions of participation (CoP) is a policy that requires kidney transplant centers' numbers of graft failure or patient death 1 year after transplant to fall below a cutoff. Centers that repeatedly exceed the cutoff  are flagged for poor performance and risk losing Medicare funding or certification.  I use a sharp regression discontinuity design to study centers' response to being flagged for poor performance. Contrary to the existing literature, I find no evidence to suggest that flagged centers reduce (increase) the transplant of high (low) risk kidneys or waitlist younger, less obese or non-diabetic patients. 
 
