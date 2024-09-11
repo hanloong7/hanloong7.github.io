@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. In Fall 2024, I will join the [Institute of Economics at Academia Sinica](https://www.econ.sinica.edu.tw/4d49b1b1-d551-4956-84a5-6bbf392d8417) as an Assistant Research Fellow.
+Welcome to my homepage. I am an Assistant Research Fellow (Assistant Professor) at [Institute of Economics at Academia Sinica](https://www.econ.sinica.edu.tw/4d49b1b1-d551-4956-84a5-6bbf392d8417). I received my PhD in Economics from Pennsylvania State University, State College in 2024.
 
-My research interest are in health economics and applied microeconomics. This is a version of my [CV](http://hanloong7.github.io/files/CV.pdf).
+My research interest are in applied microeconomics, health economics and industrial organization. This is a version of my [CV](http://hanloong7.github.io/files/CV.pdf).
 
 Working Papers: 
 ======
