@@ -14,7 +14,7 @@ My research interests are in applied microeconomics, health economics, and indus
 
 Working Papers: 
 ======
-[Performance Scores and Strategic Choices of Kidney Transplant Centers]%(http://hanloong7.github.io/files/JMP.pdf) (New draft!) 
+[Performance Scores and Strategic Choices of Kidney Transplant Centers](New draft coming soon!) 
 
 Kidney transplant centers are critical to patient survival, yet there is limited oversight of their performance and decision-making. This study evaluates a policy that terminates centers if post-transplant mortality exceeds risk-adjusted thresholds. Using variation in policy exposure across centers and a difference-in-differences design, I find that the policy reduced post-transplant mortality by 25 percent, primarily due to delayed immunosuppressant initiation until follow-up revisits, mitigating early post-transplant complications. I find no evidence that the policy increased discriminatory practices in patient selection or transplant decisions. Furthermore, centers leverage the gap between policy announcement and implementation to refine testing protocols, reducing redundant diagnostic testing by 50 percent. These findings demonstrate that oversight can improve patient outcomes without compromising equity. The study also informs policymakers about the merits of phased implementation, allowing centers to optimize post-transplant care across recovery phases before full enforcement.
 
