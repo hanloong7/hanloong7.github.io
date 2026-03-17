@@ -21,7 +21,7 @@ Working Papers:
 
 Work-in-progress: 
 ======
-[Breaking Bad Opioid Sorting]()<br>
+[Breaking Bad Opioid Sorting](https://ssagl.github.io/files/BBS.pdf)<br>
 with Stephan Sagl, and Jia Xiang
 
 Publications: 
