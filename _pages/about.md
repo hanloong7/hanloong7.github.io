@@ -14,7 +14,7 @@ My research interests are in applied microeconomics, health economics, and indus
 
 Working Papers: 
 ======
-[Breaking Bad Opioid Sorting ](https://ssagl.github.io/files/BBS.pdf)(March 2026)<br>
+[Breaking Bad Opioid Sorting ](https://ssagl.github.io/papers/BBS.pdf)(June 2026)<br>
 with Stephan Sagl, and Jia Xiang
 
 [Federal Oversight and Strategic Choices of Kidney Transplant Centers ](http://hanloong7.github.io/files/JMP.pdf)(September 2025)<br>
